@@ -132,3 +132,35 @@ font-size: 16px;
 color: #FFFFFF;
 }
 
+.section2_subtitle{
+    margin: 200px auto 54px;
+    width: 515px;
+height: 62px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 130%;
+letter-spacing: 0.005em;
+color: #4D4D4D;
+}
+.section2_div1{
+    padding-left: 180px;
+    display: inline-block;
+}
+.section2_div2{
+    margin-left: 20px;
+    display: inline-block;
+}
+.section2_div1_text{
+    margin-top: 32px;
+    width: 580px;
+height: 36px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.005em;
+color: #535353;
+}
