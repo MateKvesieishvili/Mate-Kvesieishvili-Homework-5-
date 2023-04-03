@@ -35,3 +35,33 @@
     color: #2A9D8F;
     padding: 8px 16px;
 }
+.section1{
+    margin: 200px;
+}
+.section1_subtitle{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    text-align: center;
+    color: #4D4D4D;
+}
+.section1_div1{
+    margin-top: 60px;
+    text-align: center;
+}
+.section1_div2{
+    margin-top: 52px;
+    text-align: center;
+}
+.section1_text{
+    width: 780px;
+    font-family: 'Nerko One';
+        font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: justify;
+    color: #656565;
+    display: inline-block;
+}
+
