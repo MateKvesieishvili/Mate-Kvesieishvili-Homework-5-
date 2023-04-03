@@ -1,0 +1,37 @@
+.header{
+    width: 1440px;
+    background: #2A9D8F;
+    margin: 0 auto;
+}
+.header_section{
+    padding: 38px 130px;
+}
+.logo{
+    vertical-align: middle;
+}
+.header_div{
+    margin-left: 357px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.list{
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+   display: inline-block;
+   margin-left: 51px;
+}
+.header_button{
+    margin-left: 250px;
+}
+.button_text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2A9D8F;
+    padding: 8px 16px;
+}
