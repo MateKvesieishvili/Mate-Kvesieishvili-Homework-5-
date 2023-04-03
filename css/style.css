@@ -9,10 +9,17 @@
 .logo{
     vertical-align: middle;
 }
+.logo:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
 .header_div{
     margin-left: 357px;
     vertical-align: middle;
     display: inline-block;
+}
+.list:hover{
+    scale: 1.1;
 }
 .list{
     font-family: 'Nerko One';
@@ -22,6 +29,10 @@
     color: #FFFFFF;
    display: inline-block;
    margin-left: 51px;
+}
+.header_button:hover{
+    scale: 1.1;
+    cursor: pointer;
 }
 .header_button{
     border: none;
@@ -102,6 +113,10 @@ color: #272727;
     letter-spacing: 0.005em;
     
     color: #515151;  
+}
+.article1_button:hover{
+    scale: 1.1;
+    cursor: pointer;
 }
 .article1_button{
     border: none;
