@@ -164,3 +164,52 @@ line-height: 36px;
 letter-spacing: 0.005em;
 color: #535353;
 }
+.footer{
+    margin: 200px auto;
+    width: 1440px;
+    height: 386px;
+    background: #2A9D8F;
+}
+.footer_div_logo{
+    padding: 90px 148px;
+    display: inline-block;
+}
+.footer_div_main{
+    margin-left: 534px;
+    display: inline-block;
+}
+.footer_div1{
+    display: inline-block;
+}
+.footer_div2{
+    display: inline-block;
+    margin-left: 40px;
+}
+.footer_div3{
+    display: inline-block;
+    margin-left: 40px;
+}
+.footer_div_list_sub:hover{
+    scale: 1.15;
+}
+.footer_div_list_sub{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0.005em;
+color: #FFFFFF;
+}
+.footer_div_list:hover{
+    scale: 1.1;
+}
+.footer_div_list{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0.005em;
+color: #FFFFFF;
+}
